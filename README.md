@@ -12,10 +12,10 @@ Welcome to my career portfolio! I'm a passionate Data Science & AI Engineer with
 
 ## 📁 Projects
 
-| Project                          | Description                                                     | Stack                   | Link                                          |
-| -------------------------------- | --------------------------------------------------------------- | ----------------------- | --------------------------------------------- |
-| 📉 **Telco Churn Analysis**      | Data cleaning, visualization, statistical tests, churn insights | Python, Pandas, Plotly  | [View Project](./data-analysis-telco-churn)   |
-| 🔄 **ECB Exchange Rate Fetcher** | Automates fetching & appending XML FX rates to CSV              | Python, XML, Automation | [View Project](./data-ops-ecb-exchange-rates) |
+| Project                          | Description                                                     | Stack                   | Link                                           |
+| -------------------------------- | --------------------------------------------------------------- | ----------------------- | ---------------------------------------------- |
+| 📉 **Telco Churn Analysis**      | Data cleaning, visualization, statistical tests, churn insights | Python, Pandas, Plotly  | [View Project](./data-analysis-telco-churn/)   |
+| 🔄 **ECB Exchange Rate Fetcher** | Automates fetching & appending XML FX rates to CSV              | Python, XML, Automation | [View Project](./data-ops-ecb-exchange-rates/) |
 | 🔜 **More coming soon...**       |                                                                 |                         |
 
 ---
